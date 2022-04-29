@@ -8,7 +8,7 @@
 - 📫 How to reach me **enrique.g@ciencias.unam.mx**
 
 <p align="center">
-  I'm an enthusiast coder, I always want to learn new things and colaborate with different people.
+  <strong>I'm an enthusiast coder, I always want to learn new things and colaborate with different people.</strong>
   
   If you want to meet me, and download my resume, you can visit <a href="https://enriquegap.github.io">my personal website.</a>
 </p>
