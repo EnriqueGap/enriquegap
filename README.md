@@ -10,7 +10,7 @@
 <p align="center">
   <strong>I'm an enthusiast coder, I always want to learn new things and colaborate with different people.</strong>
   
-  If you want to meet me, and download my resume, you can visit <a href="https://enriquegap.github.io">my personal website.</a>
+  If you want to meet me, and download my resume, you can visit <a href=#>my personal website.</a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">I feel good working with:</h4>
