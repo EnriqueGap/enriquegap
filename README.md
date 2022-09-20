@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Enrique</h1>
-<h3 align="center">A passionate physics student from Mexico</h3>
+<h3 align="center">A physics student from Mexico</h3>
 
-- 🔭 I’m currently working on **my BSc thesis, based in compute numerical solutions of NS & WD stellar structures.**
+- 💼 I’m currently working as **Data Scientist Analyst at BBVA Mexico.**
+
+- 🔭 I’m currently writting **my BSc thesis, based in compute numerical solutions of NS & WD stellar structures.**
 
 - 🌱 I’m currently learning **about parallel computing and neural networks.**
 
