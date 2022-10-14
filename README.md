@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **about parallel computing and neural networks.**
 
-- 📫 How to reach me **[enrique.galicia.pineda@gmail.com]**(mailto:enrique.galicia.pineda@gmail.com)
+- 📫 How to reach me [enrique.galicia.pineda@gmail.com](mailto:enrique.galicia.pineda@gmail.com)
 
 <p align="center">
   <strong>I'm an enthusiast coder, I always want to learn new things and colaborate with different people.</strong>
