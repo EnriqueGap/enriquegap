@@ -1,18 +1,18 @@
 <h1 align="center">Hi, I'm Enrique</h1>
 <h3 align="center">A physics student from Mexico</h3>
 
-- 💼 I’m currently working as **Data Scientist Analyst at BBVA Mexico.**
+- 💼 I’m currently working as **Data Scientist at BBVA Mexico.**
 
-- 🔭 I’m currently writting **my BSc thesis, based in compute numerical solutions of NS & WD stellar structures.**
+- 🔭 I’m currently writting **my BSc thesis, based on compute numerical solutions for NS & WD stellar structures.**
 
 - 🌱 I’m currently learning **about parallel computing and neural networks.**
 
 - 📫 How to reach me [enrique.galicia.pineda@gmail.com](mailto:enrique.galicia.pineda@gmail.com)
 
 <p align="center">
-  <strong>I'm an enthusiast coder, I always want to learn new things and colaborate with different people.</strong>
+  <strong>I'm an enthusiast coder, I'm always open to learn new things and colaborate with different people.</strong>
   
-  If you want to meet me, and download my resume, you can visit <a href="https://enriquegap.github.io">my personal website.</a>
+  If you want to meet me, and download my resume, go to <a href="https://enriquegap.github.io">my personal website.</a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">I feel good working with:</h4>
