@@ -16,7 +16,7 @@
 
 - 📫 Email me [enrique.galicia.pineda@gmail.com](mailto:enrique.galicia.pineda@gmail.com)
 
-- <a href="https://linkedin.com/in/enriquegap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enriquegap" height="19" width="25" /></a>EnriqueGap
+- <a href="https://linkedin.com/in/enriquegap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enriquegap" height="19" width="25" /></a> EnriqueGap
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">I feel good working with:</h4>
