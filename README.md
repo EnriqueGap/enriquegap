@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Enrique</h1>
-<h3 align="center">A physics student from Mexico</h3>
+<h3 align="center">A graduate physicist and math student from Mexico</h3>
 
 - 💼 I’m currently working as **Data Scientist at BBVA Mexico.**
 
 - 💬 Ask me about **Artificial Intelligence, Data Science, algorithms convergence and numercial methods**
 
-- 🌱 I’m currently learning **about parallel computing and neural networks.**
+- 🌱 I’m currently learning **about parallel computing and agent based modeling.**
 
 <strong>I'm an enthusiast coder, I'm always open to learn new things and colaborate with different people.</strong>
 <br>
